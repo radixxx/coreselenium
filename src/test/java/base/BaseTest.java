@@ -2,9 +2,10 @@ package base;
 
 
 import base.watcher.CustomTestWatcher;
-import core.DriverManagerFactory;
-import core.manager.base.DriverManager;
-import core.manager.type.DriverType;
+
+import core.driver.DriverManagerFactory;
+import core.driver.manager.base.DriverManager;
+import core.driver.type.DriverType;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.extension.ExtendWith;

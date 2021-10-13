@@ -1,4 +1,4 @@
-package core.driver;
+package core.driver.manager;
 
 import lombok.Getter;
 import org.openqa.selenium.WebElement;

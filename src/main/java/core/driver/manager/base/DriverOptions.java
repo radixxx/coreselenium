@@ -1,4 +1,4 @@
-package core.manager;
+package core.driver.manager.base;
 
 public enum DriverOptions {
     INCOGNITO,

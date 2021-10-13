@@ -1,6 +1,5 @@
-package core.manager.base;
+package core.driver.manager.base;
 
-import core.manager.DriverOptions;
 import org.openqa.selenium.WebDriver;
 
 public abstract class DriverManager {
