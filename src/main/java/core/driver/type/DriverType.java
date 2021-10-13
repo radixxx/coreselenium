@@ -1,4 +1,4 @@
-package core.manager.type;
+package core.driver.type;
 
 public enum DriverType {
     CHROME,

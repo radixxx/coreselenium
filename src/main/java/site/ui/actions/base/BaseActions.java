@@ -1,4 +1,4 @@
-package site.ui;
+package site.ui.actions.base;
 
 import core.logger.Log;
 import org.openqa.selenium.WebDriver;

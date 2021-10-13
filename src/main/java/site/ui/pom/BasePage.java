@@ -1,4 +1,4 @@
-package pom;
+package site.ui.pom;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;

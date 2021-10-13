@@ -1,8 +1,9 @@
-package core;
+package core.driver;
 
-import core.manager.ChromeManager;
-import core.manager.base.DriverManager;
-import core.manager.type.DriverType;
+
+import core.driver.manager.ChromeManager;
+import core.driver.manager.base.DriverManager;
+import core.driver.type.DriverType;
 
 public class DriverManagerFactory {
 
