@@ -3,7 +3,7 @@ package utils;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-public class dateTimeUtils {
+public class DateTimeUtils {
 
     public static String dateFormatUltimate = "yyyy-MM-dd'T'00:00:00.000+0000";
     public static String dateFormatUltimateExpire = "yyyy-MM-dd'T'23:59:59.000+0000";
