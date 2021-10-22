@@ -1,17 +1,12 @@
 package google;
 
 import base.BaseTest;
-import core.Wait;
-import core.driver.manager.base.DriverManager;
 import core.logger.Log;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.WebDriver;
 import site.ui.actions.GoogleActions;
 import utils.Config;
-
-import static utils.Config.SitePage;
 
 public class StartPage extends BaseTest {
 

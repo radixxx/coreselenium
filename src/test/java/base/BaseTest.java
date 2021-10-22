@@ -2,7 +2,6 @@ package base;
 
 
 import base.watcher.CustomTestWatcher;
-
 import core.driver.DriverManagerFactory;
 import core.driver.manager.base.DriverManager;
 import core.driver.type.DriverType;
