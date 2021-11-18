@@ -1,8 +1,8 @@
 package core.driver.manager;
 
+import core.driver.manager.base.DriverManager;
 import core.driver.manager.base.DriverOptions;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import core.driver.manager.base.DriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.chrome.ChromeOptions;
