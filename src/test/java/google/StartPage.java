@@ -21,7 +21,7 @@ public class StartPage extends BaseTest {
     @DisplayName("Change language On Google page")
     public void changeLangOfPage(){
         Log.info("Change the language to russian on Google start page");
-        googleActions.navigate(Config.SitePage);
+        googleActions.navigate("https://www.google.com/"); //Config.SitePage
         googleActions.changeLanguagePage_RU();
         googleActions.changeLanguagePage_RO();
 

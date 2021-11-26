@@ -1,7 +1,7 @@
 package cucmber;
 
 public class StepDefinitions {
-
+/*
     @Given("today is Sunday")
     public void today_is_Sunday() {
         // Write code here that turns the phrase above into concrete actions
@@ -18,6 +18,6 @@ public class StepDefinitions {
     public void i_should_be_told(String string) {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
-    }
+    }*/
 
 }
